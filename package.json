@@ -1,0 +1,11 @@
+{
+  "name": "Aprendendo-APIREST",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/richardmenezes10/Aprendendo-APIREST.git",
+  "author": "Richard <richard_2019sisilva@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
